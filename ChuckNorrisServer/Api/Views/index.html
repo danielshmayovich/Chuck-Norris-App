@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="ChuckNorrisApp">
+<head>
+    <title>Chuck Norris App</title>
+    <link href="css/main.css" rel="stylesheet" />
+
+    <script src="libs/angular.min.js"></script>
+    
+    <script src="models/joke.js"></script>
+    <script src="view-models/jokes.js"></script>
+    <script src="services/jokes.js"></script>
+
+    <script>
+
+        (function (app)
+        {
+            app.controller('JokesController', JokesController)
+               .factory('ApiJokesService', ApiJokesService)
+
+
+        })(angular.module('ChuckNorrisApp', []));
+
+        
+
+    </script>
+</head>
+<body ng-controller="JokesController">
+
+    <img src="img/logo.jpg" alt="logo" />
+
+    <div class="joke">{{joke.text}}</div>
+
+    <button class="joke" ng-click="voteJoke(joke.id)">I Like this one :)</button>
+    <button class="joke" ng-click="shuffleJoke()">Shuffle Joke</button>
+
+</body>
+</html>

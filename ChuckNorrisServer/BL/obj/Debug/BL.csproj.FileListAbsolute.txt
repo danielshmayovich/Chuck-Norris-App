@@ -1,0 +1,23 @@
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\BL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\BL.pdb
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\DAL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\DAL.pdb
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\obj\Debug\BL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\obj\Debug\BL.pdb
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\bin\Debug\BL.dll
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\bin\Debug\BL.pdb
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\bin\Debug\DAL.dll
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\bin\Debug\DAL.pdb
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\obj\Debug\BL.dll
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\BL\obj\Debug\BL.pdb
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\bin\Debug\BL.dll
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\bin\Debug\BL.pdb
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\bin\Debug\DAL.dll
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\bin\Debug\DAL.pdb
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\obj\Debug\BL.dll
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\BL\obj\Debug\BL.pdb

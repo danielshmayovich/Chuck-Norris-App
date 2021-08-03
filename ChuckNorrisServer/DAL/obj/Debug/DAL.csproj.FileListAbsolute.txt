@@ -1,0 +1,16 @@
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\DAL\bin\Debug\DAL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\DAL\obj\Debug\DAL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\DAL\obj\Debug\DAL.pdb
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\DAL\bin\Debug\DAL.dll
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\DAL\bin\Debug\DAL.pdb
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\DAL\obj\Debug\DAL.dll
+C:\Users\Numg\Desktop\פרויקטים להצגה\15_02_17\ChuckNorrisServer\DAL\obj\Debug\DAL.pdb
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\DAL\bin\Debug\DAL.dll
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\DAL\bin\Debug\DAL.pdb
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\DAL\obj\Debug\DAL.dll
+C:\Users\danie\OneDrive\Desktop\פרויקטים להצגה\ChuckNorris\ChuckNorrisServer\DAL\obj\Debug\DAL.pdb
